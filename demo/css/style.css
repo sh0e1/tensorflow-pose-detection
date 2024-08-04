@@ -1,0 +1,14 @@
+.wrapper {
+  position: relative;
+}
+
+canvas {
+  position: absolute;
+  z-index: 1;
+}
+
+video {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  background-color: #000;
+}
