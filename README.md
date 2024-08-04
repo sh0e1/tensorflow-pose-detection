@@ -3,7 +3,7 @@
 ### Demo
 
 Demonstration of Pose Detection with MoveNet and TensorFlow.js.  
-<https://sh0e1.github.io/tensorflow-pose-detection/demo>
+<https://sh0e1.github.io/tensorflow-pose-detection/demo/>
 
 #### Refs
 
